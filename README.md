@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+Hi, I'm Morgan. I help folks figure out accomomdation solutions for employees in the workplace. It's like an IEP, but for your job.
 
-You can use the [editor on GitHub](https://github.com/mchua/morganconsulting/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Not just for those who identify as disabled
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Everyone can benefit from thinking about how to optimize their tech setup for ease of workflow. For instance, you might not identify as disabled, but you notice your wrists hurt after a long day of typing. 
 
-### Markdown
+## Services offered
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Workspace and store space evaluations
 
-```markdown
-Syntax highlighted code block
+Let me look at your existing workspaces, whether that's a retail store, an open office plan, a desk in the corner of your living room, or anything else. Visits can be done virtually (anywhere) or in-person (in Ottawa).
 
-# Header 1
-## Header 2
-### Header 3
+### Individual consultations
 
-- Bulleted
-- List
+I interview employees - whether they formally identify as disabled or not - from the perspective of "Hey, what tasks suck due to either pain or cognition (or both), and how can we use technology to make it suck less?"
 
-1. Numbered
-2. List
+### Tech and tech setup recommendations
 
-**Bold** and _Italic_ and `Code` text
+Do you need a digital daytimer system that synchs into your email somehow? Do you need a texting or email app that lets you schedule your emails / texts so that your customers think you're operating during business hours? Have you considered a non traditional monitor layout?
 
-[Link](url) and ![Image](src)
-```
+I keep up with the latest in digital and physical accessibility tech so you don't have to. Usually, these are small tweaks, plugins, or workflow changes to your existing software - often, you don't even need to buy or install software at all!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Break out of your normative tech assumptions
 
-### Jekyll Themes
+I love helping people step back and break out of normative tech assumptions. Your monitor doesn't have to be landscape on a desk. Keyboards aren't always rectangles. You technically don't need a mouse, and your mouse could look way different - why don't more people know about vertical mice?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mchua/morganconsulting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Together, we will find what could be built better - and then build it.
